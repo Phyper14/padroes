@@ -143,6 +143,10 @@ git commit -m ":tada: Meu primeiro commit"
       <td>   Mover/Renomear        </td>
       <td> 🚚 <code> :truck: </code>   </td>
     </tr>
+   <tr>
+      <td>   Fix      </td>
+      <td> :hammer: <code> :hammer: </code>   </td>
+    </tr>
   </tbody>
 </table>
 
